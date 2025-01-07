@@ -1,0 +1,28 @@
+{
+    "bot-account": {
+      "username": "KundiGi",
+      "password": "",
+      "type": "mojang"
+    },
+    "server": {
+      "ip": "ThreeMusketeers-SCpO.aternos.me",
+      "port": 26196,
+      "version": "1.12.1"
+    },
+    "utils": {
+      "anti-afk": {
+        "enabled": true,
+        "sneak": true
+      },
+      "chat-messages": {
+        "enabled": true,
+        "repeat-delay": 60,
+        "messages": [
+          "Hello everyone!",
+          "I'm here to keep the server alive!"
+        ]
+      },
+      "auto-reconnect-delay": 5000
+    }
+  }
+  
